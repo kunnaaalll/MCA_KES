@@ -1,8 +1,8 @@
 # MCA_KES
 Practicals &amp; Class Works Of MCA.
 
-#JAVA
+# JAVA
 Call.java is not Completed.
 
-#DBMS
+# DBMS
 New Assignment, It is AI Generated.
